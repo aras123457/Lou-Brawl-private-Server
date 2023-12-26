@@ -9,7 +9,7 @@ Server ZIP: https://github.com/CrazorTheCat/BSDS-V43/archive/refs/heads/master.z
 ## Requirements: ##
 1. a brain...
 
-## How to play BSDS: ##
+## How to play Lou Stars: ##
 1. download server and apk
 2. install the apk
 3. download pydroid (if you want to run from the phone)
